@@ -1,0 +1,41 @@
+.outer
+{
+    width: 700px;
+    height: 1500px;
+    margin: 0px auto;
+    border: 1px solid whitesmoke;
+    padding: 20px 30px 20px 30px ;
+    background-color: whitesmoke;
+    font-family: Georgia, serif;
+    line-height: 30px;
+    font-size: 22px;
+}
+.outer h1
+{
+    text-align: center;
+}
+p
+{
+font-size: 18px;
+}
+.border
+{
+    width: 100%;
+    padding: 5px;
+    background-color: lightgray;
+    border: 1px solid black;
+    font-size: 18px;
+    font-family: Verdana;
+}
+ul
+{
+    font-size: 19px;
+    margin-left: 10px;
+}
+.outer img
+{
+    padding-right: 20px;
+    height: 120px;
+    width: 120px;
+    float: right;
+}
